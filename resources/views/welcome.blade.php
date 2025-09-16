@@ -85,7 +85,7 @@
                 <strong>Participantes:</strong>
                 <ul>
                     <li>Isaac Pintado Pardo</li>
-                    <li>Raul Ruben Pacheco Sanduval</li>
+                    <li>Raul Ruben Pacheco Sandoval</li>
                 </ul>
             </div>
 
